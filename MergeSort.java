@@ -22,7 +22,7 @@ public class MergeSort {
 		if (array == null) return;
 		if (array.length <= 1) return;
 		
-		// Invoke overloaded mergeSort.
+		// Invoke recursive mergeSort.
 		mergeSort(array, 0, array.length - 1);
 	}
 	
@@ -34,7 +34,6 @@ public class MergeSort {
 	 * 
 	 * @param int[] array
 	 * @param int start
-	 * @param int mid
 	 * @param int end
 	 * @return void
 	 */
