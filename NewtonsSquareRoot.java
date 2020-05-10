@@ -3,9 +3,9 @@
  * for finding the square root and integer
  * square root of a given integer. These
  * methods are based on Isaac Newton's
- * formula for computing integer square root.
- * Newton's formula is one of many historic
- * formulae for computing square root.
+ * formula for computing integer square root,
+ * one of many historic formulae for computing 
+ * square root.
  * 
  * https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
  * 
@@ -52,7 +52,7 @@ public class NewtonsSquareRoot {
 	 * 
 	 * https://en.wikipedia.org/wiki/Integer_square_root
 	 * 
-	 * This method returns to floor of the sqrt
+	 * This method returns the floor of the sqrt
 	 * by casting to int.
 	 * 
 	 * @param int num
