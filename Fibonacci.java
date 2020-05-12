@@ -71,7 +71,6 @@ public class Fibonacci {
 				computeFibonacciRecurse(n - 2);
 	}
 
-
 	/**
 	 * This method returns F_n, the (n + 1)^th 
 	 * Fibonacci number using an iterative approach. 
