@@ -26,7 +26,7 @@ public class MaxSumSubarray {
 	 */
 	public static int[] findMaxSumSubarray(int[] array) {
 		
-		if (array == null) return new int[] {};
+		if (array == null) return null;
 		if (array.length == 0) return new int[] {0, -1, -1}; 
 		if (array.length == 1) {
 			if (array[0] >= 0) return new int[] {array[0], 0, 0};
