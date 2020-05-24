@@ -10,4 +10,4 @@ This repository draws heavy inspiration from Cormen, Leiserson, Rivest, and Stei
   <img src="https://user-images.githubusercontent.com/50045763/82758038-1b8a2800-9db2-11ea-98e5-77fc22279dd6.jpg" height="300">
 </p>
 
->Artists unknown. Create an issue above to submit attribution information.
+>Artists unknown. Create an issue above to submit attribution data.
