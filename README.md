@@ -1,6 +1,6 @@
 # Implementing classical algorithms.
 
-Putting theory into practice.
+#### Putting theory into practice.
 
 This repository draws heavy inspiration from Cormen, Leiserson, Rivest, and Stein's epic *Introduction to Algorithms* (CLRS) and Kleinberg and Tardos' *Algorithm Design* (KT). 
 
