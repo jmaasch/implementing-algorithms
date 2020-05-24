@@ -7,7 +7,7 @@
  * From CLRS Exercise 2.3-5, p39:
  * Referring back to the searching problem (see Exercise 2.1-3), 
  * observe that if the sequence A is sorted, we can check the 
- * midpoint of the sequence against 􏰣and eliminate half of the 
+ * midpoint of the sequence against and eliminate half of the 
  * sequence from further consideration. The binary search
  * algorithm repeats this procedure, halving the size of the 
  * remaining portion of the sequence each time...
