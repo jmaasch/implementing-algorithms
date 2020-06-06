@@ -1,4 +1,4 @@
-# Implementing classical algorithms.
+# Implementing algorithms.
 
 **Putting theory into practice.** This repository is envisioned as an ongoing exercise: continually under construction, ultimately multilingual, and with no explicit endpoint.
 
