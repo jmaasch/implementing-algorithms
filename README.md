@@ -4,6 +4,8 @@
 
 This repository draws heavy inspiration from Cormen, Leiserson, Rivest, and Stein's epic *Introduction to Algorithms* (CLRS) and Kleinberg and Tardos' *Algorithm Design* (KT). 
 
+Sister repo: [Time to LeetCode](https://github.com/jmaasch/LeetCode).
+
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/50045763/82758036-16c57400-9db2-11ea-9e49-5bd3db1e49f1.jpg" height="300">
